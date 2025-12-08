@@ -2,9 +2,6 @@
 ## Topology 
 <img width="1758" height="697" alt="image" src="https://github.com/user-attachments/assets/986506e9-4021-4e42-98d7-47d40380ea62" />
 
-<img width="1716" height="695" alt="image" src="https://github.com/user-attachments/assets/ac0a3337-42a1-427b-bb94-dbc1426e4b7a" />
-
-
 ## Objective
 A complete CCNA-level enterprise LAN and multi-hop WAN project implementing VLANs, STP, EtherChannel, DHCP, ACLs, NAT, SSH, inter-VLAN routing, and OSPF to provide secure, scalable connectivity from internal hosts to a remote server through multiple ISP routers.
 
