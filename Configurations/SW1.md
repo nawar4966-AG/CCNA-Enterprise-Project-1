@@ -17,7 +17,7 @@ switchport access vlan 20
 ex  
 spanning-tree mode pvst   
 spanning-tree vlan 10,20 root primary 
-spanning-tree vlan 30,40 root secondary
+spanning-tree vlan 30,40 root secondary  
 interface range f0/1 - 4  
 switchport mode access  
 switchport port-security  
